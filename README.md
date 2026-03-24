@@ -12,4 +12,4 @@ The software will work by processing the data captured by the distance sensor (m
 and calculating the distance using the following formula: d = (t/s)/2.
 
 After that, the LEDs and the buzzer will be set up to activate when determined conditions come true.
-For example, set the red LED to turn on when the distance is to close, as well as set the buzzer to quickly turn on and off.
+For example, you may set the red LED to turn on when the distance is too close, as well as set the buzzer to quickly turn on and off in the same situation.
