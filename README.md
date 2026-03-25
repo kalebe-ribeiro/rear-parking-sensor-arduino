@@ -8,7 +8,7 @@ The components are:
 - Breadboard;
 - Arduino Uno R3.
 
-The software will work by processing the data captured by the distance sensor (microseconds),
+The system logic will work by processing the data captured by the distance sensor (microseconds),
 and calculating the distance using the following formula: d = (t/s)/2.
 
 After that, the LEDs and the buzzer will be set up to activate when determined conditions come true.
